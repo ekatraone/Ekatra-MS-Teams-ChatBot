@@ -116,7 +116,6 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2022 [Ramsha Shaikh](https://github.com/ramshashaikh).<br />
 This project is [MIT](https://github.com/ekatraone/Ekatra-MS-Teams-ChatBot/blob/main/LICENSE) licensed.
 
 ***
